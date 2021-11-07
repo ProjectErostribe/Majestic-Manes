@@ -1,0 +1,66 @@
+header {
+  background-color: darkmagenta;
+  text-shadow: 2px 2px #FFF01F;
+
+
+}
+.headerstuff {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 10px;
+  margin: 10px;
+}
+
+img {
+  width: ;
+  object-fit: contain;
+}  
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: navy;
+  text-size: 100px;
+  font-family: fantasy;
+  font-style: copperplate; 
+}
+
+h2 {
+  text-size: 50px;
+  color: lightblue;
+  font-family: fantasy;
+  font-style: copperplate;
+}
+
+h3 {
+  text-size: 25px;
+  color: lightpink;
+  font-family: fantasy;
+  font-style: copperplate;
+}
+img {
+  border: 5px solid lightblue;
+}
+
+p {
+  color: darkmagenta;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #FFF01F;
+}
+
+li {
+    list-style: none;
+}
+
+marquee {
+  font-size: 50px;
+  color: lightblue;
+  background-color: darkmagenta;
+  
+}

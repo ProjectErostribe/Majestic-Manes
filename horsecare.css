@@ -1,0 +1,18 @@
+body {
+ background-color: violet;}
+ 
+body { text-align: center;}
+
+body {font-family: verdana;}
+
+ body {font-size: 20px;
+}
+h1 {color: black;
+  border-style: solid;
+  //padding: 15px;
+  //border-image: url(border.png) 20% round;
+}
+
+p {font-family: 'Courier New', Courier, monospace ;
+font-size 30px ;}
+

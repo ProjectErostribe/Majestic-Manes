@@ -1,0 +1,27 @@
+body {
+  background-color:rgb(190, 238, 238);
+  }
+
+h1 {
+    background-color: yellow;
+    color: rgb(255, 0, 34);
+
+    }
+p {
+  font-family: "Lucinda Console", Arial, san-serif;
+  color: darkorange ;
+  }
+img {
+width: 500px;
+height: 500px;
+
+}
+h3 {
+
+  color: crimson;
+}
+button {
+  padding: 10px; 
+  border: none;
+  background-color: crimson;
+}
